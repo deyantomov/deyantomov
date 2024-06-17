@@ -1,14 +1,14 @@
 # Hi there 👋
 Welcome to my Github profile!<br /><br />
 
-🔭 I’m currently working on:<br />
+🔭 I’m currently working on:
 * [FitTrackr](https://github.com/deyantomov/FitTrackr)<br />
 
 🌱 I’m currently learning:
 * TypeScript<br />
 * MongoDB<br />
 
-📫 How to reach me:<br />
+📫 How to reach me:
 * Email: deyan.k.tomov@gmail.com<br />
 
 ## Github Stats
