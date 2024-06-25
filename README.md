@@ -11,9 +11,6 @@ Welcome to my Github profile!<br /><br />
 📫 How to reach me:
 * Email: deyan.k.tomov@gmail.com<br />
 
-## Github Stats
-[![Deyan Tomov's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyantomov)](https://github.com/deyantomov/github-readme-stats)
-
 ## Languages
 <div style="display:flex;flex-direction:row;background:`rgb(255, 255, 255)`">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg' height="80" />
