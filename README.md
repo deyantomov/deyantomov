@@ -2,7 +2,7 @@
 Welcome to my Github profile!<br /><br />
 
 🔭 I’m currently working on:
-* [FitTrackr](https://github.com/deyantomov/FitTrackr)<br />
+* [FitTrackr](https://github.com/deyantomov/FitTrackr) - A web application for tracking activity data by entering it manually, or connecting with a Fitbit profile and obtaining the data this way.<br />
 
 🌱 I’m currently learning:
 * TypeScript<br />
