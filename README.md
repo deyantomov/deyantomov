@@ -7,6 +7,7 @@ Welcome to my Github profile!<br /><br />
 🌱 I’m currently learning:
 * TypeScript<br />
 * MongoDB<br />
+* Node.js + Express<br />
 
 📫 How to reach me:
 * Email: deyan.k.tomov@gmail.com<br />
