@@ -11,6 +11,7 @@ Welcome to my Github profile!<br /><br />
 
 📫 How to reach me:
 * Email: deyan.k.tomov@gmail.com<br />
+* [LinkedIn](https://www.linkedin.com/in/deyan-tomov-200686316)<br />
 
 ## Languages
 <div style="display:flex;flex-direction:row;background:`rgb(255, 255, 255)`">
