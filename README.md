@@ -2,7 +2,6 @@
 Welcome to my Github profile!<br /><br />
 
 🔭 I’m currently working on:
-* [FitTrackr](https://github.com/deyantomov/FitTrackr) - A web application for tracking activity data by entering it manually, or connecting with a Fitbit profile and obtaining the data this way.<br />
 * [MERN Planets](https://github.com/deyantomov/MERN-Planets) - A full-stack web application based on the MERN stack. It serves information about the planets in the solar system, and the client displays a *not yet* interactive 3D render of the planets using three, React Three Fiber, and drei. 
 
 🌱 I’m currently learning:
