@@ -2,12 +2,13 @@
 Welcome to my Github profile!<br /><br />
 
 🔭 I’m currently working on:
-* [MERN Planets](https://github.com/deyantomov/MERN-Planets) - A full-stack web application based on the MERN stack. It serves information about the planets in the solar system, and the client displays a *not yet* interactive 3D render of the planets using three, React Three Fiber, and drei. 
+* [Learn JavaScript](https://github.com/sumn2u/learn-javascript) - A book that teaches JavaScript 📗
 
 🌱 I’m currently learning:
 * TypeScript<br />
 * MongoDB<br />
-* Node.js + Express<br />
+* Node.js<br /> 
+* Express<br />
 
 📫 How to reach me:
 * Email: deyan.k.tomov@gmail.com<br />
